@@ -61,11 +61,15 @@ const Experience = () => {
     <>
       <motion.div variants={textVariant()}>
         <p className={`${styles.sectionSubText} text-center`}>
-          What I have done so far
+          OUR STRATEGY
         </p>
         <h2 className={`${styles.sectionHeadText} text-center`}>
-          Work Experience.
-        </h2>
+          The Intelligent Station.
+
+        </h2> {/* Corrected closing tag */}
+        <h3 className={`${styles.sectionSubText} text-center`}>
+          We build digital real estate, module by module. Our 'Intelligent Station' approach is an iterative, scalable strategy for deploying high-value infrastructure, mitigating risk, and generating revenue from day one.
+        </h3>
       </motion.div>
 
       <div className='mt-20 flex flex-col'>
