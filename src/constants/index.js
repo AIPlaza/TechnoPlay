@@ -42,19 +42,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Decentralized Infrastructure",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Modular 'Intelligent Stations'",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Agentic AI Platforms",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Shared Value Economics",
     icon: creator,
   },
 ];
@@ -116,149 +116,109 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    title: "Module 0: The Foundations (Bioenergetic Efficiency)",
+    company_name: "", // Leave company_name empty or set to null if not applicable
+    icon: "", // Provide an appropriate icon or set to null
+    iconBg: "#1a2e4b", // Using a shade of blue for the background color
+    date: "", // Provide an appropriate date range or set to null
+    points: [
+      "Acquiring the physical site and embedding provisions for sustainable, independent energy sources like hydrogen generators.",
+      "This forward-looking design reduces long-term operational risk and aligns with key ESG criteria.",
+    ],
+  },
+  {
+    title: "Module 1: The Lobby (Connectivity)",
+    company_name: "",
+    icon: "",
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Deploying Mini-PCs (\"Clients\") to monetize unused internet bandwidth through established DePIN networks.",
+      "This establishes an immediate revenue stream and integrates the station into the broader data economy.",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
+    title: "Module 4: The Power Plant (AI Accelerators)",
+    company_name: "",
+    icon: "",
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Installing high-end GPUs to provide high-performance computing for AI model training and inference.",
+      "This final module positions the station as a provider of the most critical resource for the agentic economy.",
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
+    title: "Module 2: The Structure (Storage)",
+    company_name: "",
+    icon: "",
+    iconBg: "#E6DEDD",
+    date: "",
+    points: [
+      "Adding Network Attached Storage (NAS) systems to provide secure, decentralized data storage for networks like Arweave and Storj.",
+      "Evolving the station from a data conduit to a high-value data repository.",
+    ],
+  },
+  {
+    title: "Module 3: The Smart Systems (Edge Computing)",
+    company_name: "",
+    icon: "",
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Integrating edge computing capabilities to offer low-latency data processing for IoT and preliminary AI tasks.",
+      "This moves the station up the value chain from passive storage to active, intelligent processing.",
+
     ],
   },
 ];
 
 const testimonials = [
   {
-    testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    testimonial: "Based on our market research, CryptoPlaza's approach to monetizing unused internet bandwidth through DePIN networks is a game-changer for crypto enthusiasts looking for passive income.",
+    name: "Harry Gutierrez",
+    designation: "Crypto enthusiast",
+    company: "", // Company name for Harry Gutierrez
+    image: "", // Image URL for Harry Gutierrez
   },
   {
-    testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
+    testimonial: "We analyzed Agentic Plaza's agentic framework and its potential for creating sophisticated AI systems. The 'Agentic Builder' could revolutionize how businesses automate complex functions.",
+    name: "Frank Camelo",
+    designation: "CEO",
     company: "DEF Corp",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
-    testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
+    testimonial: "Our research into sustainable energy solutions for laundry services led us to BioEnergy's decentralized approach. Their focus on hydrogen generators and microgrids offers a promising path to energy independence.",
+    name: "Maria Rangel",
+    designation: "CEO",
     company: "456 Enterprises",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
 
 const projects = [
-  {
-    name: "Car Rent",
+ {
+    name: "CryptoPlaza (The Hardware Division)",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+ "CryptoPlaza builds and operates the tangible network of \"Intelligent Stations,\" monetizing every layer of the hardware stack from connectivity to high-performance GPU rentals. It also fosters ecosystem growth through a marketplace for certified, optimized hardware.",
+    tags: [], // Keep for structural consistency
+ tagline: "Forging the physical backbone of the agentic economy.",
   },
-  {
-    name: "Job IT",
-    description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "restapi",
-        color: "green-text-gradient",
-      },
-      {
-        name: "scss",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+ {
+    name: "Agentic Plaza (The Software Division)",
+ description: "Agentic Plaza is developing the \"Agentic Builder,\" a no-code platform for creating and deploying sophisticated multi-agent AI systems that can automate complex business functions. Its mission is to democratize access to true agentic intelligence.",
+    tags: [], // Keep for structural consistency
+ tagline: "Building the collaborative mind of the new digital world.",
   },
-  {
-    name: "Trip Guide",
+ {
+    name: "BioEnergy (The Power Division)",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+ "BioEnergy develops and deploys sustainable, decentralized energy solutions including hydrogen generators, biogas systems, and renewable microgrids that power our Intelligent Stations. By achieving energy independence, we reduce operational costs while creating additional revenue streams through excess energy monetization and carbon credit generation.",
     tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+
+ ], // Keep for structural consistency
+ tagline: "Powering the future with sustainable, decentralized energy.",
   },
 ];
 

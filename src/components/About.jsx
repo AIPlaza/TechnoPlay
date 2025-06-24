@@ -38,20 +38,16 @@ const ServiceCard = ({ index, title, icon }) => (
 const About = () => {
   return (
     <>
-      <motion.div variants={textVariant()}>
-        <p className={styles.sectionSubText}>Introduction</p>
-        <h2 className={styles.sectionHeadText}>Overview.</h2>
+ <motion.div variants={textVariant()}>
+ <p className={styles.sectionSubText}>INTRODUCTION</p>
+ <h2 className={styles.sectionHeadText}>Overview.</h2>
       </motion.div>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        TechnoPlay was founded to solve the critical failures of our centralized digital world. We build, deploy, and monetize modular infrastructure for decentralized networks and AI ecosystems, creating a vertically integrated solution that is more resilient, efficient, and equitable. By uniting the physical (hardware) and digital (software) layers, we democratize access to the tools of the future and invite you to co-create a world that is not controlled, but collaborative.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
