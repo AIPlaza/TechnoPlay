@@ -179,7 +179,7 @@ const testimonials = [
     name: "Harry Gutierrez",
     designation: "Crypto Enthusiast",
     company: "",
-    image: "", // Image URL for Harry Gutierrez
+    image: "../assets/harry.png",
   },
   {
     testimonial: "We analyzed Agentic Plaza's agentic framework and its potential for creating sophisticated AI systems. The 'Agentic Builder' could revolutionize how businesses automate complex functions.",
@@ -187,13 +187,14 @@ const testimonials = [
     designation: "CEO",
     company: "CryptoPoint",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
+ image: "../assets/Frankie.png",
   },
   {
     testimonial: "Our research into sustainable energy solutions for laundry services led us to BioEnergy's decentralized approach. Their focus on hydrogen generators and microgrids offers a promising path to energy independence.",
     name: "Maria Rangel",
     designation: "Entrepreneur",
     company: "LavaPrenda",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    image: "../assets/Maria.png",
   },
 ];
 
