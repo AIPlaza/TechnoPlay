@@ -42,7 +42,7 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <img src="https://github.com/AIPlaza/Stock/blob/main/Isotipo_TechnoPlay.png" alt='logo' className='w-9 h-9 object-contain' />
+          <img src="https://raw.githubusercontent.com/AIPlaza/Stock/main/Isotipo_TechnoPlay.png" alt='logo' className='w-9 h-9 object-contain' />
         </Link>
 
         <ul className='list-none hidden sm:flex flex-row gap-10'>
