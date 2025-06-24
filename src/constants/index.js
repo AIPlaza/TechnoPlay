@@ -186,7 +186,6 @@ const testimonials = [
     name: "Frank Camelo",
     designation: "CEO",
     company: "CryptoPoint",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
  image: "../assets/Frankie.png",
   },
   {
