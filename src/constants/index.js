@@ -177,22 +177,22 @@ const testimonials = [
   {
     testimonial: "Based on our market research, CryptoPlaza's approach to monetizing unused internet bandwidth through DePIN networks is a game-changer for crypto enthusiasts looking for passive income.",
     name: "Harry Gutierrez",
-    designation: "Crypto enthusiast",
-    company: "", // Company name for Harry Gutierrez
+    designation: "Crypto Enthusiast",
+    company: "",
     image: "", // Image URL for Harry Gutierrez
   },
   {
     testimonial: "We analyzed Agentic Plaza's agentic framework and its potential for creating sophisticated AI systems. The 'Agentic Builder' could revolutionize how businesses automate complex functions.",
     name: "Frank Camelo",
     designation: "CEO",
-    company: "DEF Corp",
+    company: "CryptoPoint",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial: "Our research into sustainable energy solutions for laundry services led us to BioEnergy's decentralized approach. Their focus on hydrogen generators and microgrids offers a promising path to energy independence.",
     name: "Maria Rangel",
-    designation: "CEO",
-    company: "456 Enterprises",
+    designation: "Entrepreneur",
+    company: "LavaPrenda",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
