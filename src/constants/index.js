@@ -22,6 +22,7 @@ import {
   carrent,
   jobit,
   tripguide,
+  AIAccelerators,
   threejs,
 } from "../assets";
 
