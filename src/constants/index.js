@@ -219,9 +219,9 @@ const projects = [
     description:
  "BioEnergy develops and deploys sustainable, decentralized energy solutions including hydrogen generators, biogas systems, and renewable microgrids that power our Intelligent Stations. By achieving energy independence, we reduce operational costs while creating additional revenue streams through excess energy monetization and carbon credit generation.",
     tags: [
-
- image: tripguide,
+ 
  ], // Keep for structural consistency
+    image: tripguide,
  tagline: "Powering the future with sustainable, decentralized energy.",
   },
 ];
