@@ -19,7 +19,7 @@ const Hero = () => {
             TechnoPlay
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
- We architect the physical infrastructure for the decentralized <br className='sm:block hidden' /> AI economy<br/>.
+ We architect the infrastructure for the <br className='sm:block hidden' /> AI Economy <br/> 
           </p>
         </div>
       </div>
