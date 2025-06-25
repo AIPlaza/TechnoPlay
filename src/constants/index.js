@@ -187,7 +187,7 @@ const testimonials = [
     name: "Frank Camelo",
     designation: "CEO",
     company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    image: Frankie,
   },
   {
     testimonial: "Our research into sustainable energy solutions for laundry services led us to BioEnergy's decentralized approach. Their focus on hydrogen generators and microgrids offers a promising path to energy independence.",
