@@ -19,6 +19,7 @@ import {
   starbucks,
   tesla,
   shopify,
+  AIAccelerators,
   carrent,
   jobit,
   tripguide,
@@ -118,7 +119,7 @@ const experiences = [
   {
     title: "Module 0: The Foundations (Bioenergetic Efficiency)",
     company_name: "", // Leave company_name empty or set to null if not applicable
-    icon: "", // Provide an appropriate icon or set to null
+    icon: starbucks, // Provide an appropriate icon or set to null
     iconBg: "#1a2e4b", // Using a shade of blue for the background color
     date: "", // Provide an appropriate date range or set to null
     points: [
@@ -129,7 +130,7 @@ const experiences = [
   {
     title: "Module 1: The Lobby (Connectivity)",
     company_name: "",
-    icon: "",
+    icon: shopify,
     iconBg: "#383E56",
     date: "",
     points: [
@@ -140,7 +141,7 @@ const experiences = [
   {
     title: "Module 4: The Power Plant (AI Accelerators)",
     company_name: "",
-    icon: "",
+    icon: meta,
     iconBg: "#E6DEDD",
     date: "",
     points: [
@@ -151,7 +152,7 @@ const experiences = [
   {
     title: "Module 2: The Structure (Storage)",
     company_name: "",
-    icon: "",
+    icon: tesla,
     iconBg: "#E6DEDD",
     date: "",
     points: [
@@ -162,7 +163,7 @@ const experiences = [
   {
     title: "Module 3: The Smart Systems (Edge Computing)",
     company_name: "",
-    icon: "",
+    icon: starbucks, // Assuming you want to reuse starbucks based on the provided order
     iconBg: "#383E56",
     date: "",
     points: [
