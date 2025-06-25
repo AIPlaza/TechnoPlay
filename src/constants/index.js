@@ -119,7 +119,7 @@ const experiences = [
   {
     title: "Module 0: The Foundations (Bioenergetic Efficiency)",
     company_name: "", // Leave company_name empty or set to null if not applicable
-    icon: "", // Provide an appropriate icon or set to null
+    icon: starbucks, // Provide an appropriate icon or set to null
     iconBg: "#1a2e4b", // Using a shade of blue for the background color
     date: "", // Provide an appropriate date range or set to null
     points: [
