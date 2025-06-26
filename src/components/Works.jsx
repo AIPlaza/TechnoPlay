@@ -79,7 +79,7 @@ const Works = () => {
         <motion.p
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
-        >Our strategy is built on two synergistic divisions: CryptoPlaza and Agentic Plaza. The hardware built by CryptoPlaza provides the power needed to run the software developed by Agentic Plaza. In turn, the growing demand for AI tools drives the expansion of the physical network. This symbiotic flywheel is the core of our competitive advantage.
+        >Our strategy is built on three synergistic divisions: CryptoPlaza, Agentic Plaza and Energy Plaza. The hardware and solutions implemented by CryptoPlaza and Energy Plaza provides the power needed to run the software developed by Agentic Plaza. In turn, the growing demand for AI tools drives the expansion of the physical network. This symbiotic flywheel is the core of our competitive advantage.
         </motion.p>
       </div>
 
