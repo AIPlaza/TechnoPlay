@@ -204,15 +204,16 @@ const projects = [
     description:
  "CryptoPlaza builds and operates the tangible network of \"Intelligent Stations,\" monetizing every layer of the hardware stack from connectivity to high-performance GPU rentals. It also fosters ecosystem growth through a marketplace for certified, optimized hardware.",
     tags: [], // Keep for structural consistency
-    image: carrent,
- tagline: "Forging the physical backbone of the agentic economy.",
-  },
+        image: carrent,
+        tagline: "Forging the physical backbone of the agentic economy.",
+        source_code_link: "https://github.com/CryptoPlazaHQ/CryptoPlaza",  },
  {
     name: "Agentic Plaza (The Software Division)",
  description: "Agentic Plaza is developing the \"Agentic Builder,\" a no-code platform for creating and deploying sophisticated multi-agent AI systems that can automate complex business functions. Its mission is to democratize access to true agentic intelligence.",
     tags: [], // Keep for structural consistency
- tagline: "Building the collaborative mind of the new digital world.",
- image: jobit,
+    image: jobit,
+    tagline: "Building the collaborative mind of the new digital world.",
+    source_code_link: "https://github.com/CryptoPlazaHQ/Agentic-Plaza",
   },
  {
     name: "BioEnergy (The Power Division)",
@@ -220,9 +221,9 @@ const projects = [
  "BioEnergy develops and deploys sustainable, decentralized energy solutions including hydrogen generators, biogas systems, and renewable microgrids that power our Intelligent Stations. By achieving energy independence, we reduce operational costs while creating additional revenue streams through excess energy monetization and carbon credit generation.",
     tags: [
  ], // Keep for structural consistency
-    image: tripguide,
- tagline: "Powering the future with sustainable, decentralized energy.",
-  },
+        image: tripguide,
+        tagline: "Powering the future with sustainable, decentralized energy.",
+        source_code_link: "https://github.com/CryptoPlazaHQ/Energy-Plaza",  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
