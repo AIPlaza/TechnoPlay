@@ -3,8 +3,8 @@ import { Link } from "react-router-dom";
 
 import { styles } from "../styles";
 import { navLinks } from "../constants";
-import logo from "../assets/logo.png"; import { menu, close } from "/src/assets";
-
+<<<<<<< HEAD
+import { menu, close, logo } from "../assets";
 const Navbar = () => {
   const [active, setActive] = useState("");
   const [toggle, setToggle] = useState(false);
@@ -43,7 +43,6 @@ const Navbar = () => {
           }}
         >
           <img src={logo} alt='logo' className='w-14 h-14 object-contain' />
-          </Link>
 
         <ul className='list-none hidden sm:flex flex-row gap-10'>
           {navLinks.map((nav) => (

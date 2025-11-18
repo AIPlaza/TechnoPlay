@@ -30,6 +30,10 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import harry from "./harry.png";
+import Frankie from "./Frankie.png";
+import Maria from "./Maria.png";
+
 export {
   backend,
   creator,
@@ -59,5 +63,8 @@ export {
   carrent,
   jobit,
   tripguide,
+  harry,
+  Frankie,
+  Maria,
 };
 // Added a comment to force re-evaluation of exports

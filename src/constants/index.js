@@ -23,6 +23,7 @@ import {
   jobit,
   tripguide,
   AIAccelerators,
+  Frankie,
   threejs,
 } from "../assets";
 
@@ -119,7 +120,11 @@ const experiences = [
   {
     title: "Module 0: The Foundations (Bioenergetic Efficiency)",
     company_name: "", // Leave company_name empty or set to null if not applicable
+<<<<<<< HEAD
     icon: starbucks,
+=======
+    icon: starbucks,
+>>>>>>> b6e87111a11f696f59deb78ec2d46d53fe7b21cd
     iconBg: "#1a2e4b", // Using a shade of blue for the background color
     date: "", // Provide an appropriate date range or set to null
     points: [
@@ -163,7 +168,11 @@ const experiences = [
   {
     title: "Module 3: The Smart Systems (Edge Computing)",
     company_name: "",
+<<<<<<< HEAD
     icon: AIAccelerators,
+=======
+    icon: AIAccelerators,
+>>>>>>> b6e87111a11f696f59deb78ec2d46d53fe7b21cd
     iconBg: "#383E56",
     date: "",
     points: [
@@ -178,23 +187,38 @@ const testimonials = [
   {
     testimonial: "Based on our market research, CryptoPlaza's approach to monetizing unused internet bandwidth through DePIN networks is a game-changer for crypto enthusiasts looking for passive income.",
     name: "Harry Gutierrez",
+<<<<<<< HEAD
     designation: "Crypto enthusiast",
     company: "America", // Company name for Harry Gutierrez
     image: "https://raw.githubusercontent.com/AIPlaza/TechnoPlay/main/src/assets/harry.png", // Image URL for Harry Gutierrez
+=======
+    designation: "Crypto enthusiast",
+    company: "America", // Company name for Harry Gutierrez
+    image: "https://raw.githubusercontent.com/AIPlaza/TechnoPlay/main/src/assets/harry.png", // Image URL for Harry Gutierrez
+>>>>>>> b6e87111a11f696f59deb78ec2d46d53fe7b21cd
   },
   {
     testimonial: "We analyzed Agentic Plaza's agentic framework and its potential for creating sophisticated AI systems. The 'Agentic Builder' could revolutionize how businesses automate complex functions.",
     name: "Frank Camelo",
     designation: "CEO",
+<<<<<<< HEAD
     company: "CryptoPoint",
     image: "https://raw.githubusercontent.com/AIPlaza/TechnoPlay/main/src/assets/Frankie.png",
+=======
+    company: "CryptoPoint",
+    image: "https://raw.githubusercontent.com/AIPlaza/TechnoPlay/main/src/assets/Frankie.png",
+>>>>>>> b6e87111a11f696f59deb78ec2d46d53fe7b21cd
   },
   {
     testimonial: "Our research into sustainable energy solutions for laundry services led us to BioEnergy's decentralized approach. Their focus on hydrogen generators and microgrids offers a promising path to energy independence.",
     name: "Maria Rangel",
     designation: "Entrepreneur",
     company: "LavaPrenda",
+<<<<<<< HEAD
     image: "https://raw.githubusercontent.com/AIPlaza/TechnoPlay/main/src/assets/Maria.png",
+=======
+    image: "https://raw.githubusercontent.com/AIPlaza/TechnoPlay/main/src/assets/Maria.png",
+>>>>>>> b6e87111a11f696f59deb78ec2d46d53fe7b21cd
   },
 ];
 
@@ -204,26 +228,46 @@ const projects = [
     description:
  "CryptoPlaza builds and operates the tangible network of \"Intelligent Stations,\" monetizing every layer of the hardware stack from connectivity to high-performance GPU rentals. It also fosters ecosystem growth through a marketplace for certified, optimized hardware.",
     tags: [], // Keep for structural consistency
+<<<<<<< HEAD
         image: carrent,
         tagline: "Forging the physical backbone of the agentic economy.",
         source_code_link: "https://github.com/CryptoPlazaHQ/CryptoPlaza",  },
+=======
+    image: carrent,
+ tagline: "Forging the physical backbone of the agentic economy.",
+ source_code_link: "https://github.com/CryptoPlazaHQ/CryptoPlaza",  },
+>>>>>>> b6e87111a11f696f59deb78ec2d46d53fe7b21cd
  {
     name: "Agentic Plaza (The Software Division)",
  description: "Agentic Plaza is developing the \"Agentic Builder,\" a no-code platform for creating and deploying sophisticated multi-agent AI systems that can automate complex business functions. Its mission is to democratize access to true agentic intelligence.",
     tags: [], // Keep for structural consistency
+<<<<<<< HEAD
     image: jobit,
     tagline: "Building the collaborative mind of the new digital world.",
     source_code_link: "https://github.com/CryptoPlazaHQ/Agentic-Plaza",
+=======
+    image: jobit,
+    tagline: "Building the collaborative mind of the new digital world.",
+    source_code_link: "https://github.com/CryptoPlazaHQ/Agentic-Plaza",
+>>>>>>> b6e87111a11f696f59deb78ec2d46d53fe7b21cd
   },
  {
     name: "BioEnergy (The Power Division)",
     description:
  "BioEnergy develops and deploys sustainable, decentralized energy solutions including hydrogen generators, biogas systems, and renewable microgrids that power our Intelligent Stations. By achieving energy independence, we reduce operational costs while creating additional revenue streams through excess energy monetization and carbon credit generation.",
     tags: [
+<<<<<<< HEAD
  ], // Keep for structural consistency
         image: tripguide,
         tagline: "Powering the future with sustainable, decentralized energy.",
         source_code_link: "https://github.com/CryptoPlazaHQ/Energy-Plaza",  },
+=======
+ 
+ ], // Keep for structural consistency
+        image: tripguide,
+        tagline: "Powering the future with sustainable, decentralized energy.",
+        source_code_link: "https://github.com/CryptoPlazaHQ/Agentic-Plaza",  },
+>>>>>>> b6e87111a11f696f59deb78ec2d46d53fe7b21cd
 ];
 
 export { services, technologies, experiences, testimonials, projects };
